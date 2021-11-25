@@ -75,17 +75,17 @@ Game::Game() {
 	maxBalls = 6;
 	totalPlayers = 11;
 
-	players[0] = "Virat";
-	players[1] = "Rohit";
-	players[2] = "Dhawan";
-	players[3] = "Pant";
-	players[4] = "Karthik";
-	players[5] = "KLRahul";
-	players[6] = "Jadeja";
-	players[7] = "Hardik";
-	players[8] = "Bumrah";
-	players[9] = "BKumar";
-	players[10] = "Ishant";
+	players[0] = "Harmanpreet_Kaur";
+	players[1] = "Smriti_Mandhana";
+	players[2] = "Poonam_Yadav";
+	players[3] = "Mithali_Raj";
+	players[4] = "Jhulan_Goswami";
+	players[5] = "Deepti_Sharma";
+	players[6] = "Punam_Raut";
+	players[7] = "Rajeshwari_Gayakwad";
+	players[8] = "Shafaili_Verma";
+	players[9] = "Radhya_Yadav";
+	players[10] = "Shikha_Pandey";
 
 	isFirstInnings = false;
 	teamA.name = "Team-A";
