@@ -26,7 +26,7 @@ This game is developed using cpp language and basics of cricket.
 
 ### How to play
 
-     - Create 2 teams (Team-A and Team-B with 4 players each) from a given pool of 11 players.|
+     - Create 2 teams (Team-A and Team-B with 4 players each) from a given pool of 11 players.
      - Lead the toss and decide the choice of play.  
      - Each innings will be of 6 balls.
      - Match can end with win of either team A or team B or draw.
